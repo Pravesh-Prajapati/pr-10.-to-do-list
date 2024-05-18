@@ -1,0 +1,19 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 20px 50px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+#container2 {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#sec {
+    width: 30%;
+}
